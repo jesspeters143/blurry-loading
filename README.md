@@ -21,3 +21,9 @@ This site is live at: https://blurrypage.netlify.app/
 
 Website Use Instructions:
 Let the page load from 0 to 100%, then Click the "What's out there?" button to be linked to another page where you can see the Solar System Simulation; click the "back" button to return to main page; "Learn more" button leds to Nasa website.
+  
+  ![Screen Shot 2022-01-18 at 8 10 16 PM](https://user-images.githubusercontent.com/83046012/150062477-b3ce269e-54fb-46d8-b5d3-b08a4415fe27.png)
+
+  
+  ![Screen Shot 2022-01-18 at 8 11 19 PM](https://user-images.githubusercontent.com/83046012/150062582-ed70c899-093c-4054-be19-ae859e5742fa.png)
+
