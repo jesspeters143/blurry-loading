@@ -14,6 +14,8 @@
   position: absolute;
   top: -30px;
   left: -30px;
+  padding: 0%;
+  margin: 0%;
   /* calc the space around the image */
   width: calc(100vw + 60px);
   height: calc(100vh + 60px);
@@ -65,8 +67,8 @@
 /* Planets rotations */
 #secondpage {
   background-color: black;
-  margin: 0;
-  padding: 0;
+  margin: 0%;
+  padding: 0%;
   height: 200vmin;
 }
 .object{

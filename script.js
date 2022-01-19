@@ -39,7 +39,7 @@ function pFunction() {
 const planets = document.querySelectorAll('.planet')
 // array which contains the orbital radii 'r' of planets (assumed values)
 const p_radii = [22,33,50,70,112,138,165,190]
-// array that contais the values of angles. Initial values of 8 angles is set to 0 radians
+// array that contains the values of angles. Initial values of 8 angles is set to 0 radians
 let p_radians = new Array(8).fill(0)
 // array that contains the orbital velocities of planets relative to earth (real world values)
 const p_velocities = [1.607,1.174,1,0.802,0.434,0.323,0.228,0.182] 
