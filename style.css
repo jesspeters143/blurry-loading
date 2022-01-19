@@ -38,9 +38,7 @@
   margin: 0;
 }
 
-.planets {
-  position: middle;
-  justify-content: center;
+#planets {
   background-color: #000;
         border: .5px solid crimson;
         border-radius: 10px;
@@ -97,6 +95,7 @@
   bottom: 0;
   transform: translateY(50vmin);
 }
+
 
 .p-orbit, #m-orbit{
   border:0.1vmin solid lightgrey;

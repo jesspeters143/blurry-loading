@@ -1,3 +1,12 @@
+// Displays button after pages load
+setTimeout(showStuff, 5000);
+console.debug('Start page');
+function showStuff(Button){
+    console.debug('Display');
+    document.getElementById("planets").style.display = "inline";
+}
+
+
 // Blurry page first page
 // Get two elements together: text and background
 const loadText = document.querySelector('.loading-text')
@@ -28,6 +37,7 @@ function blurring() {
 const scale = (num, in_min, in_max, out_min, out_max) => {
   return ((num - in_min) * (out_max - out_min)) / (in_max - in_min) + out_min
 }
+
 
 // Links to Nasa page
 function pFunction() {
