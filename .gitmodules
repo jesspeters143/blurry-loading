@@ -1,0 +1,3 @@
+[submodule "vendors"]
+	path = vendors
+	url = https://github.com/jesspeters143/blurry-loading.git
