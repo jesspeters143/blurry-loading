@@ -6,7 +6,6 @@ function showStuff(Button){
     document.getElementById("planets").style.display = "inline";
 }
 
-
 // Blurry page first page
 // Get two elements together: text and background
 const loadText = document.querySelector('.loading-text')
@@ -94,12 +93,12 @@ setInterval(()=>{
     m_orbit.style.top = `${earthY()}vmin`
   },1000/60)
 
-  // returns the 'h' on formula 
+  // returns the 'h' (center of the earth) on formula 
 function earthX(){
     return Number(planets[2].style.left.split('vmin')[0])
 }
 
-// return the 'k'  of formula
+// return the 'k' (center of the earth)  of formula
 function earthY(){
     return Number(planets[2].style.top.split('vmin')[0])
 }
